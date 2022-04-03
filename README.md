@@ -10,7 +10,6 @@
 # ハンズオン
 - [(Qwiklabs)Data Engineer Learning Path](https://www.cloudskillsboost.google/paths/16)
 - [(Qwiklabs)Data Engineering](https://www.qwiklabs.com/quests/25)
-- [(Qwiklabs)Engineer Data in Google Cloud](https://www.cloudskillsboost.google/quests/132)
 - [(Qwiklabs)Google Cloud Platformでのデータサイエンス：機械学習](https://www.qwiklabs.com/quests/50)
 - [(GH)data-science-on-gcp](https://github.com/GoogleCloudPlatform/data-science-on-gcp)
 ## 参考資料
