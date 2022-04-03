@@ -7,6 +7,10 @@
 - [(Udemy)【GCP認定資格】 Professional Data Engineer 模擬問題集](https://www.udemy.com/course/gcp-pde-test-ja/learn/quiz/5245444)
 - [(Whizlabs)Google Cloud Certified Professional Data Engineer](https://www.whizlabs.com/google-cloud-certified-professional-data-engineer/)
 - [(ExamTopics)Google Professional Data Engineer Exam Actual Questions](https://www.examtopics.com/exams/google/professional-data-engineer/)
+- [(Qwiklabs)Data Engineer Learning Path](https://www.cloudskillsboost.google/paths/16)
+- [(Qwiklabs)Data Engineering](https://www.qwiklabs.com/quests/25)
+- [(Qwiklabs)Engineer Data in Google Cloud](https://www.cloudskillsboost.google/quests/132)
+- [(Qwiklabs)Google Cloud Platformでのデータサイエンス：機械学習](https://www.qwiklabs.com/quests/50)
 ## 学習コンテンツ
 - [(GH)data-science-on-gcp](https://github.com/GoogleCloudPlatform/data-science-on-gcp)
 - [(Book)Data Science on the Google Cloud Platform, 2nd Edition](https://www.oreilly.com/library/view/data-science-on/9781098118945/)
