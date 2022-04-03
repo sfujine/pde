@@ -8,4 +8,6 @@
 ## 学習コンテンツ
 - [(GH)data-science-on-gcp](https://github.com/GoogleCloudPlatform/data-science-on-gcp)
 - [(Book)Data Science on the Google Cloud Platform, 2nd Edition](https://www.oreilly.com/library/view/data-science-on/9781098118945/)
+- [(Book)Google BigQuery: The Definitive Guide](https://www.oreilly.com/library/view/google-bigquery-the/9781492044451/)
 - [(Book)Google Cloudではじめる実践データエンジニアリング入門](https://gihyo.jp/book/2021/978-4-297-11948-5)
+- [(Book)ビッグデータ分析・活用のためのSQLレシピ](https://book.mynavi.jp/ec/products/detail/id=65863)
