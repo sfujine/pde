@@ -3,14 +3,14 @@ from urllib.parse import urljoin, urlparse
 
 from bs4 import BeautifulSoup as bs
 
-target_url = 'https://cloud.google.com/bigquery/docs/introduction?hl=ja'
+target_url = 'https://cloud.google.com/dataflow/docs/quickstarts/create-pipeline-python?hl=ja'
 
 parse_results = urlparse(target_url)
 base = f'{parse_results.scheme}://{parse_results.netloc}'
-export_filename = f'{pr.path.split("/")[1]}.md'
+export_filename = f'{parse_results.path.split("/")[1]}.md'
 
 with request.urlopen(target_url) as f:
-    soup = bs(f.read())
+    soup = bs(f.read(), 'html.parser')
 
 contents = []
 navi = soup.find('ul', class_='devsite-nav-list', menu='_book')
