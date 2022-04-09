@@ -1,9 +1,11 @@
+import sys
 from urllib import request
 from urllib.parse import urljoin, urlparse
 
 from bs4 import BeautifulSoup as bs
 
-target_url = 'https://cloud.google.com/dataflow/docs/quickstarts/create-pipeline-python?hl=ja'
+
+target_url = sys.argv[1] 
 
 parse_results = urlparse(target_url)
 base = f'{parse_results.scheme}://{parse_results.netloc}'
