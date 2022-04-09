@@ -1,0 +1,67 @@
+## AI Platform Prediction
+### [AIPlatformPredictionドキュメント](https://cloud.google.com/ai-platform/prediction/docs)
+### [プロダクトの概要](https://cloud.google.com/ai-platform)
+### [AIPlatformのすべてのドキュメント](https://cloud.google.com/ai-platform/docs)
+## はじめに
+### [AIPlatformの概要](https://cloud.google.com/ai-platform/docs/technical-overview)
+### [予測の概要](https://cloud.google.com/ai-platform/prediction/docs/overview)
+### [開発環境](https://cloud.google.com/ai-platform/prediction/docs/environment-overview)
+### [オンライン予測vsバッチ予測](https://cloud.google.com/ai-platform/prediction/docs/online-vs-batch-prediction)
+### [TensorFlowKerasスタートガイド](https://cloud.google.com/ai-platform/docs/getting-started-keras)
+### [scikit-learnとXGBoostの使い方](https://cloud.google.com/ai-platform/prediction/docs/ml-predictions-scikit-xgboost-models)
+## 予測ワークフロー
+### [予測のためのモデルのエクスポート](https://cloud.google.com/ai-platform/prediction/docs/exporting-for-prediction)
+### [予測に使用するSavedModelのエクスポート](https://cloud.google.com/ai-platform/prediction/docs/exporting-savedmodel-for-prediction)
+### [モデルをデプロイする](https://cloud.google.com/ai-platform/prediction/docs/deploying-models)
+### [カスタム予測ルーチン](https://cloud.google.com/ai-platform/prediction/docs/custom-prediction-routines)
+### [オンライン予測用のマシンタイプ](https://cloud.google.com/ai-platform/prediction/docs/machine-types-online-prediction)
+### [オンライン予測の取得](https://cloud.google.com/ai-platform/prediction/docs/online-predict)
+### [バッチ予測の取得](https://cloud.google.com/ai-platform/prediction/docs/batch-predict)
+## オンライン予測のカスタム コンテナ
+### [スタートガイド:カスタムコンテナを使用したPyTorch予測の提供](https://cloud.google.com/ai-platform/prediction/docs/getting-started-pytorch-container)
+### [カスタムコンテナの要件](https://cloud.google.com/ai-platform/prediction/docs/custom-container-requirements)
+### [カスタムコンテナの使用](https://cloud.google.com/ai-platform/prediction/docs/use-custom-container)
+## ツールとサービスの統合
+### [Pythonクライアントライブラリの使用](https://cloud.google.com/ai-platform/prediction/docs/python-client-library)
+### [CloudStorageを使用する](https://cloud.google.com/ai-platform/prediction/docs/working-with-cloud-storage)
+### [What-Ifツールの使用](https://cloud.google.com/ai-platform/prediction/docs/using-what-if-tool)
+## モニタリングとセキュリティ
+### [モデルバージョンのモニタリング](https://cloud.google.com/ai-platform/prediction/docs/monitor-prediction)
+### [監査ログの表示](https://cloud.google.com/ai-platform/prediction/docs/audit-logs)
+### [IAMによるアクセス制御](https://cloud.google.com/ai-platform/prediction/docs/access-control)
+### [カスタムサービスアカウントの使用](https://cloud.google.com/ai-platform/prediction/docs/custom-service-account)
+### [VPCServiceControlsを使用する](https://cloud.google.com/ai-platform/prediction/docs/vpc-service-controls)
+## AI Platform Prediction リソース
+### [プロジェクト、モデル、バージョン、ジョブ](https://cloud.google.com/ai-platform/prediction/docs/projects-models-versions-jobs)
+### [モデルとジョブの管理](https://cloud.google.com/ai-platform/prediction/docs/managing-models-jobs)
+### [リソースのラベル付け](https://cloud.google.com/ai-platform/prediction/docs/resource-labels)
+### [モデルの共有](https://cloud.google.com/ai-platform/prediction/docs/sharing-models)
+## チュートリアル
+### [Kerasを使ったカスタム予測ルーチンの作成](https://cloud.google.com/ai-platform/prediction/docs/custom-prediction-routine-keras)
+### [XGBoostによるオンライン予測の取得](https://cloud.google.com/ai-platform/prediction/docs/getting-predictions-xgboost)
+### [scikit-learnでのオンライン予測の取得](https://cloud.google.com/ai-platform/prediction/docs/using-pipelines-for-preprocessing)
+### [scikit-learnパイプラインによる予測](https://cloud.google.com/ai-platform/prediction/docs/using-pipelines)
+### [カスタム変換器でのscikit-learnパイプラインの使用](https://cloud.google.com/ai-platform/prediction/docs/custom-pipeline)
+### [scikit-learnを使ったカスタム予測ルーチンの作成](https://cloud.google.com/ai-platform/prediction/docs/custom-prediction-routine-scikit-learn)
+### [KaggleとAIPlatformPredictionでのscikit-learnの使用](https://cloud.google.com/ai-platform/prediction/docs/using-kaggle)
+## ランタイム バージョン
+### [ランタイムバージョンリスト](https://cloud.google.com/ai-platform/prediction/docs/runtime-version-list)
+### [ランタイムバージョンの管理](https://cloud.google.com/ai-platform/prediction/docs/versioning)
+## リージョン
+### [リージョン](https://cloud.google.com/ai-platform/prediction/docs/regions)
+### [リージョンエンドポイント](https://cloud.google.com/ai-platform/prediction/docs/regional-endpoints)
+## AI Explanations
+### [概要](https://cloud.google.com/ai-platform/prediction/docs/ai-explanations/overview)
+### [AIExplanationsスタートガイド](https://cloud.google.com/ai-platform/prediction/docs/ai-explanations/getting-started)
+### [AIExplanationsの制限事項](https://cloud.google.com/ai-platform/prediction/docs/ai-explanations/limitations)
+### [特徴の属性の使用](https://cloud.google.com/ai-platform/prediction/docs/ai-explanations/using-feature-attributions)
+### [TensorFlowモデルの保存](https://cloud.google.com/ai-platform/prediction/docs/ai-explanations/saving-tensorflow-models)
+### [メタデータの準備](https://cloud.google.com/ai-platform/prediction/docs/ai-explanations/preparing-metadata)
+### [画像データの説明の可視化](https://cloud.google.com/ai-platform/prediction/docs/ai-explanations/visualizing-explanations)
+### [説明のための入力と出力について](https://cloud.google.com/ai-platform/prediction/docs/ai-explanations/understanding-inputs-outputs)
+## 継続評価
+### [継続評価の概要](https://cloud.google.com/ai-platform/prediction/docs/continuous-evaluation)
+### [継続評価を始める前に](https://cloud.google.com/ai-platform/prediction/docs/continuous-evaluation/before-you-begin)
+### [評価ジョブの作成](https://cloud.google.com/ai-platform/prediction/docs/continuous-evaluation/create-job)
+### [評価指標の表示](https://cloud.google.com/ai-platform/prediction/docs/continuous-evaluation/view-metrics)
+### [評価ジョブの更新、一時停止、削除](https://cloud.google.com/ai-platform/prediction/docs/continuous-evaluation/modify-job)
