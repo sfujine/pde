@@ -1,4 +1,5 @@
 ## Transfer Appliance
+![](https://storage.googleapis.com/gweb-cloudblog-publish/images/How_Transfer_Appliance_works.max-700x700.jpg)
 ### [すべての入門ガイド](https://cloud.google.com/transfer-appliance/docs/4.0/how-to)
 ### [TransferApplianceのお申し込み](https://console.cloud.google.com/transfer/appliance)
 ### [手続きガイド](https://cloud.google.com/transfer-appliance/docs/4.0/procedure-guide)
