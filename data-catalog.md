@@ -6,6 +6,7 @@
 ### [エントリとエントリグループ](https://cloud.google.com/data-catalog/docs/entries-and-entry-groups)
 ## クイックスタート
 ### [エントリのメタデータを作成する](https://cloud.google.com/data-catalog/docs/tag-bigquery-dataset)
+### [ポリシータグを使用してBigQueryの列のセキュリティを有効にする](https://cloud.google.com/data-catalog/docs/how-to/use-policy-tags)
 ## データソースを Data Catalog と統合する
 ### [GoogleCloudソースを統合する](https://cloud.google.com/data-catalog/docs/integrate-data-sources)
 ### [オンプレミスソースを統合する](https://cloud.google.com/data-catalog/docs/integrate-data-sources#integrate_on-premises_data_sources)
@@ -18,7 +19,7 @@
 ### [IdentityandAccessManagement](https://cloud.google.com/data-catalog/docs/concepts/iam)
 ### [リソースプロジェクト](https://cloud.google.com/data-catalog/docs/concepts/resource-project)
 ### [組織のプリンシパルがタグを使用できるようにする](https://cloud.google.com/data-catalog/docs/how-to/template-user)
-### [ポリシータグを使用してBigQueryの列へのアクセスを制御する](https://cloud.google.com/bigquery/docs/column-level-security-intro)
+### [ポリシータグを使用してBigQueryの列へのアクセスを制御する](https://cloud.google.com/data-catalog/docs/policy-tags)
 ### [VPCServiceControlsの境界とDataCatalog](https://cloud.google.com/data-catalog/docs/vpc-sc)
 ### [監査ロギング](https://cloud.google.com/data-catalog/docs/how-to/audit-logging)
 ## コードサンプルを参照する
