@@ -1,6 +1,9 @@
-## Datastore モードの Cloud Firestore
-### [プロダクトの概要](https://cloud.google.com/datastore)
+## Datastore モードの Firestore
+### [サービスの概要](https://cloud.google.com/datastore)
 ### [クイックスタート](https://cloud.google.com/datastore/docs/store-query-data)
+## 例
+### [Datastoreモードの全Firestoreのコードサンプル](https://cloud.google.com/datastore/docs/samples)
+### [すべてのプロダクトの全コードサンプル](https://cloud.google.com/docs/samples)
 ## 入門ガイド
 ### [すべての入門ガイド](https://cloud.google.com/datastore/docs/how-to)
 ### [データベースへのアクセス](https://cloud.google.com/datastore/docs/activate)
@@ -17,6 +20,7 @@
 ### [エンティティのエクスポートとインポート](https://cloud.google.com/datastore/docs/export-import-entities)
 ### [エクスポートのスケジュール](https://cloud.google.com/datastore/docs/schedule-export)
 ### [エンティティの一括削除](https://cloud.google.com/datastore/docs/bulk-delete)
+### [有効期間ポリシーを使用してデータ保持を管理する](https://cloud.google.com/datastore/docs/ttl)
 ### [KeyVisualizerの概要](https://cloud.google.com/datastore/docs/key-visualizer)
 ### [KeyVisualizerを使ってみる](https://cloud.google.com/datastore/docs/keyvis-getting-started)
 ### [ヒートマップを確認する](https://cloud.google.com/datastore/docs/keyvis-exploring-heatmaps)

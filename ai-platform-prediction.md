@@ -2,7 +2,7 @@
 ### [AIPlatformPredictionドキュメント](https://cloud.google.com/ai-platform/prediction/docs)
 ### [プロダクトの概要](https://cloud.google.com/ai-platform)
 ### [AIPlatformのすべてのドキュメント](https://cloud.google.com/ai-platform/docs)
-## はじめに
+## ご利用にあたって
 ### [AIPlatformの概要](https://cloud.google.com/ai-platform/docs/technical-overview)
 ### [予測の概要](https://cloud.google.com/ai-platform/prediction/docs/overview)
 ### [開発環境](https://cloud.google.com/ai-platform/prediction/docs/environment-overview)

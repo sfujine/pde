@@ -2,7 +2,7 @@
 ### [AIPlatformTrainingのドキュメント](https://cloud.google.com/ai-platform/training/docs)
 ### [プロダクトの概要](https://cloud.google.com/ai-platform)
 ### [AIPlatformのすべてのドキュメント](https://cloud.google.com/ai-platform/docs)
-## はじめに
+## ご利用にあたって
 ### [AIPlatformの概要](https://cloud.google.com/ai-platform/docs/technical-overview)
 ### [トレーニングの概要](https://cloud.google.com/ai-platform/training/docs/overview)
 ### [開発環境](https://cloud.google.com/ai-platform/training/docs/environment-overview)
